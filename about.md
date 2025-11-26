@@ -1,16 +1,16 @@
 ---
-title: Colophon
+title: About Me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: I am Vinicius
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I’m a Ph.D. candidate in Software Engineering at UEM (Brazil) and a Visiting Scholar at NCSU, where I research software architecture optimization and system modernization. My background includes a Master’s in Mechanical Engineering from Unicamp, where I developed topology optimization methods for microchannel flows—an experience that shaped my analytical and problem-solving mindset.
 
-If you have a question about him or else, just send a letter to him.
+I’ve also worked with full-stack development using TypeScript, React, and Node.js, and I use Python extensively in my research. I enjoy combining engineering thinking, hands-on development, and academic research to build practical and well-reasoned solutions.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Find me on <a href="https://www.linkedin.com/in/vinicius-lopes13" target="_blank" rel="noopener">LinkedIn</a>.
 
 **may u needs ✨**
 
